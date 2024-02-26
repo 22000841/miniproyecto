@@ -1,0 +1,162 @@
+[
+    {
+        "categoria": "General",
+        "pregunta": "¿Cuál de los siguientes no ha sido el nombre del hospital?",
+        "respuesta": "Hospital de ancianos Grey's",
+        "incorrecta": "Hospital Grace de Seattle",
+        "incorrecta2": "Hospital Grace Mercy West de Seattle",
+        "incorrecta3": "Hospital Conmemorativo Gray Sloan\r"
+    },
+    {
+        "categoria": "General",
+        "pregunta": "¿A cuántas personas hirió y mató el tirador Gary Clark?",
+        "respuesta": "7 heridos, 11 muertos",
+        "incorrecta": "5 heridos, 12 muertos",
+        "incorrecta2": "11 heridos, 7 muertos",
+        "incorrecta3": "12 heridos, 5 muertos\r"
+    },
+    {
+        "categoria": "General",
+        "pregunta": "¿Quién nunca ha sido jefe de cirugía?",
+        "respuesta": "Addison Montgomery",
+        "incorrecta": "Preston Burke",
+        "incorrecta2": "Miranda Bailey",
+        "incorrecta3": "Alex Karev\r"
+    },
+    {
+        "categoria": "General",
+        "pregunta": "¿Por qué vino Addison a Seattle al final de la temporada 1?",
+        "respuesta": "Para ayudar a operar a una mujer embarazada de gemelos",
+        "incorrecta": "Richard la llamó para que recuperara su matrimonio",
+        "incorrecta2": "Porque se enteró de la relación entre Meredith y Derek",
+        "incorrecta3": "Para ayudar a un médico del Grace en un nacimiento prematuro\r"
+    },
+    {
+        "categoria": "General",
+        "pregunta": "¿Cuántos de los personajes originales quedan en el programa?",
+        "respuesta": "Cuatro",
+        "incorrecta": "Dos",
+        "incorrecta2": "Tres",
+        "incorrecta3": "Uno\r"
+    },
+    {
+        "categoria": "General",
+        "pregunta": "Todo el mundo sabe quién es McDreamy, pero ¿a quién se le ocurrió el apodo?",
+        "respuesta": "Cristina",
+        "incorrecta": "Meredith",
+        "incorrecta2": "Izzie",
+        "incorrecta3": "Alex\r"
+    },
+    {
+        "categoria": "Meredith",
+        "pregunta": "¿Quién no ha vivido en casa de la madre de Meredith?",
+        "respuesta": "Teddy Altman",
+        "incorrecta": "Callie Torres",
+        "incorrecta2": "George O'malley",
+        "incorrecta3": "Joe Wilson\r"
+    },
+    {
+        "categoria": "Meredith",
+        "pregunta": "¿Cuál de las siguientes situaciones no ha vivido Meredith?",
+        "respuesta": "Un accidente de coche",
+        "incorrecta": "Un accidente de avión",
+        "incorrecta2": "Ahogo",
+        "incorrecta3": "Una bomba\r"
+    },
+    {
+        "categoria": "Meredith",
+        "pregunta": "¿Qué apodo le ponen los pasantes a Meredith?",
+        "respuesta": "Medusa",
+        "incorrecta": "Nazzi",
+        "incorrecta2": "Reina del mal",
+        "incorrecta3": "Reina oscura\r"
+    },
+    {
+        "categoria": "Meredith",
+        "pregunta": "¿Cómo conoce Meredith a Penny por primera vez?",
+        "respuesta": "Fue una de las médicas que estuvo en el hospital donde Derek murió",
+        "incorrecta": "Fue una de las médicas que opero a Zola",
+        "incorrecta2": "Fueron a la escuela juntas",
+        "incorrecta3": "Penny fue parte de la fusión con el Mercy West\r"
+    },
+    {
+        "categoria": "Meredith",
+        "pregunta": "Meredith y Derek tienen tres hijos. ¿Cuáles son sus nombres?",
+        "respuesta": "Ellis, Bailey y Zola",
+        "incorrecta": "George, Zola y Bailey",
+        "incorrecta2": "Zoe, Sophia, Ellen",
+        "incorrecta3": "George, Ximena, Harriet\r"
+    },
+    {
+        "categoria": "Meredith",
+        "pregunta": "¿Cuántas medias hermanas tiene Meredith Gray?",
+        "respuesta": "2",
+        "incorrecta": "1",
+        "incorrecta2": "3",
+        "incorrecta3": "0\r"
+    },
+    {
+        "categoria": "Meredith",
+        "pregunta": "¿Quién interpreta a Meredith Grey?",
+        "respuesta": "Ellen Pompeo",
+        "incorrecta": "Katherine Heigl",
+        "incorrecta2": "Shonda Rimes",
+        "incorrecta3": "Sandra Oh\r"
+    },
+    {
+        "categoria": "Random",
+        "pregunta": "¿Qué decía siempre Derek antes de iniciar una operación?",
+        "respuesta": "Es un hermoso día para salvar vidas",
+        "incorrecta": "Salvemos una vida",
+        "incorrecta2": "Es un gran día para salvar vidas",
+        "incorrecta3": "Es un buen día\r"
+    },
+    {
+        "categoria": "Random",
+        "pregunta": "¿Cuántas hermanas tiene Derek Shepherd?",
+        "respuesta": "Cuatro",
+        "incorrecta": "Cinco",
+        "incorrecta2": "Seis",
+        "incorrecta3": "Tres\r"
+    },
+    {
+        "categoria": "Random",
+        "pregunta": "¿Qué cirugía fracasó George, lo que le dio el desafortunado apodo de '007'?",
+        "respuesta": "Apendectomía",
+        "incorrecta": "Extripación de hígado",
+        "incorrecta2": "Cirugía a corazón abierto",
+        "incorrecta3": "Extripación de vesícula\r"
+    },
+    {
+        "categoria": "Random",
+        "pregunta": "¿Con cuál de los siguientes personajes no ha salido Callie Torres?",
+        "respuesta": "Osito de peluche",
+        "incorrecta": "Ericka",
+        "incorrecta2": "George",
+        "incorrecta3": "Centavo\r"
+    },
+    {
+        "categoria": "Random",
+        "pregunta": "¿Cuál de los internos de la temporada 12 fingió ser un médico mayor de lo que realmente era?",
+        "respuesta": "Deluca",
+        "incorrecta": "Wilson",
+        "incorrecta2": "Edwards",
+        "incorrecta3": "Arroyo\r"
+    },
+    {
+        "categoria": "Random",
+        "pregunta": "¿Quién fue el primer médico del Seattle Grace en morir?",
+        "respuesta": "George O'malley",
+        "incorrecta": "Lexy Grey",
+        "incorrecta2": "Heather Brooks",
+        "incorrecta3": "Ellis Gray\r"
+    },
+    {
+        "categoria": "Random",
+        "pregunta": "¿En cuál de las siguientes universidades Cristina Yang obtuvo un título?",
+        "respuesta": "Universida de Stanford",
+        "incorrecta": "Universidad Harvard",
+        "incorrecta2": "Universidad de Yale",
+        "incorrecta3": "Universidad de Berkley\r"
+    }
+]
